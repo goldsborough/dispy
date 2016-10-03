@@ -4,7 +4,7 @@
 
 A tiny Python bytecode disassembler.
 
-`dispy` emulates the behavior of `dis.dis` in that it will take a function, method, code object or code string and print a pretty representation of the corresponding bytecode. See [here]() for a blog post on `dis.dis` and bytecode in general.
+`dispy` emulates the behavior of `dis.dis` in that it will take a function, method, code object or code string and print a pretty representation of the corresponding bytecode. See [here](http://www.goldsborough.me/python/low-level/2016/10/04/00-31-30-disassembling_python_bytecode/) for a blog post on `dis.dis` and bytecode in general.
 
 ## Usage
 
